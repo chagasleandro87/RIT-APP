@@ -54,10 +54,10 @@ Instalar dependências
 
 📄 Estrutura do Projeto
 
-├── assets/               # Imagens (background, QR Code, etc.)
-├── App.js                # Arquivo principal do app
-├── package.json          # Dependências do projeto
-└── README.md             # Documentação
+<br/>├── assets/               # Imagens (background, QR Code, etc.)
+<br/>├── App.js                # Arquivo principal do app
+<br>├── package.json          # Dependências do projeto
+<br>└── README.md             # Documentação
 
 🔗 Links Úteis
 
